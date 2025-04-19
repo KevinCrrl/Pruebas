@@ -60,4 +60,4 @@ Finalmente escribí su nombre en la parte inferior, lo terminé y en Termux (el 
 
 ## IMPORTANTE!
 
-Todo este procedimiento se hizo en un entorno controlado y en un red local propia, las herramientas usadas para el ataque son destinadas a lo ético y el aprendizaje, no soy responsable de cualquier uso incorrecto o no ético, etc de estas herramientas por parte de otras personas, todos los dispositivos y máquinas virtuales son de mi propiedad, en ningún momento se vulneraron dispositivos ajenos, el único ebjetivo de esto es educar y demostrar.
+Todo este procedimiento se hizo en un entorno controlado y en un red local propia, las herramientas usadas para el ataque son destinadas a lo ético y el aprendizaje, no soy responsable de cualquier uso incorrecto o no ético, etc de estas herramientas por parte de otras personas, todos los dispositivos y máquinas virtuales son de mi propiedad, en ningún momento se vulneraron dispositivos ajenos, el único objetivo de esto es educar y demostrar.
